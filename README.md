@@ -49,7 +49,7 @@ microsoft satori
 - open domain question and answer via semantic enrichment(www 2015)
 - factoid answer based on tables
 - table cell search for question answer [www 2016]
-  ---
+ ---
 ## Question answer for testing machine intelligence
 ### datasets
 - MCtest
