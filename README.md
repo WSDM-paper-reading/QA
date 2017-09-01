@@ -1,4 +1,4 @@
-###Categories of Modern QA system
+### Categories of Modern QA system
 
 - 1 factoid question
  -- Information queries about fact of entities
