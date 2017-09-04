@@ -1,26 +1,42 @@
 ### Categories of Modern QA system
 
 - 1 factoid question
+
  -- Information queries about fact of entities
+ 
  -- Competitions
+ 
 - 2 narrative question
+
  -- Opinion,instruction (how–to question)
 - 3 multi-modal
+
 -- Visual qa
+
 -- Travel assistant
+
 - 4 AI ability tests
+
  -- Reading comprehension
+ 
  -- Elementary school science and math
  
 ### Data sources
+
 - 1 structured data
+
  -- Databases & knowledge bases
+ 
 - 2 semi-structured data
+
  -- Web tables
+ 
 - 3 unstructured text
+
  -- Newswire corpora
+ 
  -- web
- ---
+ 
 # papers
 ##  QA from structured data
 ### datasets
