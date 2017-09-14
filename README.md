@@ -77,7 +77,7 @@ microsoft satori
 ### paper list
 - memery network(iclr 2015)
 - reasoning in vector space(iclr 2016)
-- R-NET: Machine Reading Comprehension with Self-matching Networks[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) [code_tf](https://github.com/YerevaNN/R-NET-in-Keras)[ppt](./ppt/)
+- R-NET: Machine Reading Comprehension with Self-matching Networks[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) [[code_tf]](https://github.com/YerevaNN/R-NET-in-Keras)[ppt](./ppt/R_net_lixinsu.pptx)
 - ReasoNet: Learning to Stop Reading in Machine Comprehension
 - Machine Comprehension Using Match-LSTM and Answer Pointer
 - Making Neural QA as Simple as Possible but not Simpler	
