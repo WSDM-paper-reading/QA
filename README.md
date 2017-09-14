@@ -81,7 +81,7 @@ microsoft satori
 - ReasoNet: Learning to Stop Reading in Machine Comprehension
 - Machine Comprehension Using Match-LSTM and Answer Pointer
 - Making Neural QA as Simple as Possible but not Simpler	
-- Bidirectional Attention Flow for Machine Comprehension
+- Bidirectional Attention Flow for Machine Comprehension[[paper]](https://arxiv.org/abs/1611.01603)[[ppt]](./ppt/paperreading_20170914_yuefeng.pdf)
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension
 - Mnemonic Reader: Machine Comprehension with Iterative Aligning and Multi-hop Answer Pointing
 - Structural Embedding of Syntactic Trees for Machine Comprehension
