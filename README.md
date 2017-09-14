@@ -56,14 +56,11 @@ microsoft satori
  ---
 ## web-based question and answering 
 ### papers
-- entity retrieval finding
 - Entity linking and retrieval for semantic search(wsdm 2014)
 - knowledge base completion via search-based question answering(www 2014)
-- factoid answer based on web document
 - learning question classifiers (coling 2012)
 - question answer (Dan jurafsky  stanford book,chapter 28) 
 - open domain question and answer via semantic enrichment(www 2015)
-- factoid answer based on tables
 - table cell search for question answer [www 2016]
  ---
 ## Question answer for testing machine intelligence
@@ -85,8 +82,6 @@ microsoft satori
 - Machine Comprehension Using Match-LSTM and Answer Pointer
 - Making Neural QA as Simple as Possible but not Simpler	
 - Bidirectional Attention Flow for Machine Comprehension
-- R-NET: Machine Reading Comprehension with Self-matching Networks 
-- ReasoNet: Learning to Stop Reading in Machine Comprehension
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension
 - Mnemonic Reader: Machine Comprehension with Iterative Aligning and Multi-hop Answer Pointing
 - Structural Embedding of Syntactic Trees for Machine Comprehension
