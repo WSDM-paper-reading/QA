@@ -79,6 +79,7 @@ microsoft satori
 - reasoning in vector space(iclr 2016)
 - R-NET: Machine Reading Comprehension with Self-matching Networks[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) [[code_tf]](https://github.com/YerevaNN/R-NET-in-Keras)[[ppt]](./ppt/R_net_lixinsu.pptx)
 - LEARNING RECURRENT SPAN REPRESENTATIONS FOR EXTRACTIVE QUESTION ANSWERING[[paper]](https://arxiv.org/pdf/1611.01436.pdf)[[paper_v1]](https://openreview.net/pdf?id=HkIQH7qel) [[code_1]](https://github.com/shimisalant/RaSoR)[[code_2]](https://github.com/hsgodhia/squad_rasor_nn)
+`This paper focused on the extractive question answering on the SQUAD dataset, presenting a novel neural architecture called RASOR .The core of this model relies on a recurrent network that enables shared computation for the shared substructure across span candidates. They explored different methods of encoding the passage and question, showing the benefits of including both passage-independent and passage-aligned question representations.`
 - ReasoNet: Learning to Stop Reading in Machine Comprehension
 - Machine Comprehension Using Match-LSTM and Answer Pointer
 - Making Neural QA as Simple as Possible but not Simpler	
