@@ -39,7 +39,7 @@ datasets(freebase,microsoft satori,DBpedia)
 - knowledge base completion via search-based question answering(www 2014)
 - learning question classifiers (coling 2012)
 - question answer (Dan jurafsky  stanford book,chapter 28) 
-- open domain question and answer via semantic enrichment(www 2015)[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1068-sunA.pdf)[[ppt]](./ppt/paperreading_20170907_lijuanchen.pdf)
+- open domain question and answer via semantic enrichment(www 2015)[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1068-sunA.pdf)[[ppt]](./ppt/paperreading-20170907-jianguichen.pdf)
 - table cell search for question answer [www 2016]
  ---
 ## Question answer for testing machine intelligence
@@ -49,9 +49,9 @@ datasets(Facebook bAbi,Squad,MS MARCO,[Baidu ild webqa](), [trivia](https://home
 ### paper list
 - memery network(iclr 2015)[[paper]](https://arxiv.org/abs/1410.3916)
 - reasoning in vector space(iclr 2016)
-- R-NET: Machine Reading Comprehension with Self-matching Networks[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) [[code_tf]](https://github.com/YerevaNN/R-NET-in-Keras)[[ppt]](./ppt/R_net_lixinsu.pptx)
+- R-NET: Machine Reading Comprehension with Self-matching Networks[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) [[code_tf]](https://github.com/YerevaNN/R-NET-in-Keras)[[ppt]](./ppt/paperreading_20170907_lixinsu.pdf)
 - LEARNING RECURRENT SPAN REPRESENTATIONS FOR EXTRACTIVE QUESTION ANSWERING[[paper]](https://arxiv.org/pdf/1611.01436.pdf)[[paper_v1]](https://openreview.net/pdf?id=HkIQH7qel) [[code_1]](https://github.com/shimisalant/RaSoR)[[code_2]](https://github.com/hsgodhia/squad_rasor_nn)[[ppt]](./ppt/paperreading_20170914_yihanni.pdf)
-- ReasoNet: Learning to Stop Reading in Machine Comprehension[[paper]](https://arxiv.org/abs/1609.05284)[[code_cntk]](https://github.com/AnatoliiPotapov/reasonet_cntk)
+- ReasoNet: Learning to Stop Reading in Machine Comprehension[[paper]](https://arxiv.org/abs/1609.05284)[[code_cntk]](https://github.com/AnatoliiPotapov/reasonet_cntk)[[ppt]](./ppt/paperreading_20170907_lijuanchen.pdf)
 - Machine Comprehension Using Match-LSTM and Answer Pointer[[paper]](https://arxiv.org/abs/1608.07905)
 - Making Neural QA as Simple as Possible but not Simpler	[[paper]](http://www.aclweb.org/anthology/K17-1028)
 - Bidirectional Attention Flow for Machine Comprehension[[paper]](https://arxiv.org/abs/1611.01603)[[ppt]](./ppt/paperreading_20170914_yuefeng.pdf)[[code_tf]](https://github.com/allenai/bi-att-flow)
