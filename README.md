@@ -1,3 +1,6 @@
+
+<span style="color:red">new: QA survey [ppt](./ppt/span_QA.pptx) and [excel](./ppt/2017-09-19.xls)  ,download and read</span>
+
 ### Categories of Modern QA system
 
 - 1 factoid question
