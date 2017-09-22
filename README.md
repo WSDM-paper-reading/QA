@@ -19,6 +19,11 @@
  
 - 3 unstructured text(Newswire corpora, web)
 
+### data sets
+- [web QA](http://idl.baidu.com/WebQA.html) ：WebQA is a large scale *Chinese* human annotated real-world QA dataset which contains 42k questions and 579k evidences, where an evidence is a piece of text which may contain information for answering the question.All the questions are of single-entity factoid type, which means (1) each question is a factoid question and (2) its answer i
+nvolves only one entity (but may have multiple words).
+
+
 # papers
 ##  QA from structured data
 
