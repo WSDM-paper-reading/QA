@@ -1,4 +1,18 @@
-
+### 2017 ACL  QA papers
+[Gated Self-Matching Networks for Reading Comprehension and Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1018.pdf)
+[Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning](http://www.aclweb.org/anthology/P/P17/P17-1019.pdf)
+[Coarse-to-Fine Question Answering for Long Documents](http://www.aclweb.org/anthology/P/P17/P17-1020.pdf)
+[An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge](http://www.aclweb.org/anthology/P/P17/P17-1021.pdf)
+[Attention-over-Attention Neural Networks for Reading Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1055.pdf)
+[Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability](http://www.aclweb.org/anthology/P/P17/P17-1075.pdf)
+[Semi-Supervised QA with Generative Domain-Adaptive Nets](http://www.aclweb.org/anthology/P/P17/P17-1096.pdf)
+[Learning to Ask: Neural Question Generation for Reading Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1123.pdf)
+[A Constituent-Centric Neural Architecture for Reading Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1129.pdf)
+[Leveraging Knowledge Bases in LSTMs for Improving Machine Reading](http://www.aclweb.org/anthology/P/P17/P17-1132.pdf)
+[TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1147.pdf)
+[Search-based Neural Structured Learning for Sequential Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1167.pdf)
+[Gated-Attention Readers for Text Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1168.pdf)
+[Reading Wikipedia to Answer Open-Domain Questions](http://www.aclweb.org/anthology/P/P17/P17-1171.pdf)
 #### new: QA survey [ppt](./ppt/span_QA.pptx) and [excel](./ppt/2017-09-19.xls) 
 
 ### Categories of Modern QA system
