@@ -1,3 +1,7 @@
+### related paper
+- Entity Linking for Queries by Searching Wikipedia Sentences
+  annotate the entities in the query and link them to a knowledge base such as Freebase.
+- 
 ### 2017 ACL  QA papers
 - [Gated Self-Matching Networks for Reading Comprehension and Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1018.pdf)
 - [Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning](http://www.aclweb.org/anthology/P/P17/P17-1019.pdf)
