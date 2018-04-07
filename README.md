@@ -14,7 +14,9 @@
 - [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1147.pdf)
 - [Search-based Neural Structured Learning for Sequential Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1167.pdf)
 - [Gated-Attention Readers for Text Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1168.pdf)
-- [Reading Wikipedia to Answer Open-Domain Questions](http://www.aclweb.org/anthology/P/P17/P17-1171.pdf)
+- [Reading Wikipedia to Answer Open-Domain Questions](http://www.aclweb.org/anthology/P/P17/P17-1171.pdf)  
+### 2017 EMNLP QA papers
+
  --- 
 ### Categories of Modern QA system
 
