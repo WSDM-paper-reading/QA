@@ -1,4 +1,4 @@
-### related paper    
+## question answering and reading comprehension   
    
 ### 2017 ACL  QA papers  
 - [Gated Self-Matching Networks for Reading Comprehension and Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1018.pdf)   
@@ -20,23 +20,17 @@
 
 ### Categories of Modern QA system
 
-- 1 factoid question
-
-- 2 narrative question(Opinion,instruction (how–to question))
-
-- 3 multi-modal(Visual qa, Travel assistant)
-
-- 4 AI ability tests(Reading comprehension,Elementary school science and math)
+- 1 factoid question . 
+- 2 narrative question(Opinion,instruction (how–to question))  
+- 3 multi-modal(Visual qa, Travel assistant)  
+- 4 AI ability tests(Reading comprehension,Elementary school science and math)  
  
-### Data sources
+### Data sources 
+- 1 structured data(Databases & knowledge bases) . 
+- 2 semi-structured data(Web tables) . 
+- 3 unstructured text(Newswire corpora, web) . 
 
-- 1 structured data(Databases & knowledge bases)
- 
-- 2 semi-structured data(Web tables)
- 
-- 3 unstructured text(Newswire corpora, web)
-
-### data sets
+### datasets
 #### english . 
 - [web QA](http://idl.baidu.com/WebQA.html) ：WebQA is a large scale *Chinese* human annotated real-world QA dataset which contains 42k questions and 579k evidences, where an evidence is a piece of text which may contain information for answering the question.All the questions are of single-entity factoid type, which means (1) each question is a factoid question and (2) its answer i . 
 nvolves only one entity (but may have multiple words).
@@ -51,12 +45,10 @@ nvolves only one entity (but may have multiple words).
 - [dureader](https://arxiv.org/abs/1711.05073)
 - [WebQA](https://arxiv.org/pdf/1607.06275.pdf)
 - [sougou](http://task.www.sogou.com/cips-sogou_qa/)
-# papers
-##  QA from structured data
-
-datasets(freebase,microsoft satori,DBpedia)
-
+ ---  
 ### papers
+####  QA from structured data
+datasets(freebase,microsoft satori,DBpedia)
 - semantic parsing on freebase  from question answer pair (emnlp 2013)
 - semantic parsing via paraphrasing (acl 2014)
 - large-scale semantic parsing without Question-answer pairs (tacl 2014)
@@ -67,9 +59,7 @@ datasets(freebase,microsoft satori,DBpedia)
 - limitation learning of agenda-based sematic parsers (tacl 2015)
 - transforming dependncy structures to logical form for semantic parsing(tacl 2016)
 - question answer on freebase via relation extraction and textual evidence(acl 2016)
- ---
-## web-based question and answering 
-### papers
+#### qa in structure data
 - Entity linking and retrieval for semantic search(wsdm 2014)
 - knowledge base completion via search-based question answering(www 2014)
 - learning question classifiers (coling 2012)
@@ -77,11 +67,7 @@ datasets(freebase,microsoft satori,DBpedia)
 - open domain question and answer via semantic enrichment(www 2015)[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1068-sunA.pdf)[[ppt]](./ppt/paperreading-20170907-jianguichen.pdf)
 - table cell search for question answer [www 2016]
  ---
-## Question answer for testing machine intelligence
-
-datasets(Facebook bAbi,Squad,MS MARCO,[Baidu ild webqa](), [trivia](https://homes.cs.washington.edu/~eunsol/papers/acl17jcwz.pdf) )
-
-### paper list
+#### Question answer for testing machine intelligence
 - memery network(iclr 2015)[[paper]](https://arxiv.org/abs/1410.3916)
 - reasoning in vector space(iclr 2016)
 - R-NET: Machine Reading Comprehension with Self-matching Networks[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf) [[code_tf]](https://github.com/YerevaNN/R-NET-in-Keras)[[ppt]](./ppt/paperreading_20170907_lixinsu.pdf)
