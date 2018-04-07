@@ -29,19 +29,17 @@
 - 1 structured data(Databases & knowledge bases) . 
 - 2 semi-structured data(Web tables) . 
 - 3 unstructured text(Newswire corpora, web) . 
-
+ ---
 ### datasets
-#### english . 
-- [web QA](http://idl.baidu.com/WebQA.html) ：WebQA is a large scale *Chinese* human annotated real-world QA dataset which contains 42k questions and 579k evidences, where an evidence is a piece of text which may contain information for answering the question.All the questions are of single-entity factoid type, which means (1) each question is a factoid question and (2) its answer i . 
-nvolves only one entity (but may have multiple words).
-- [wiki QA](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/) : a new publicly available set of question and sentence pairs, collected and annotated for research on open-domain question answering. Most previous work on answer sentence selection focuses on a dataset created using the TREC-QA data, which includes editor-generated questions and candidate answer sentences selected by matching content words in the question. WikiQA is constructed using a more natural process and is more than an order of magnitude larger than the previous dataset. In addition, the WikiQA dataset also includes questions for which there are no correct sentences, enabling researchers to work on answer triggering, a critical component in any QA system. We compare several systems on the task of answer sentence selection on both datasets and also describe the performance of a system on the problem of answer triggering using the WikiQA dataset.
-- [squad](https://rajpurkar.github.io/SQuAD-explorer/)    
+#### english  
+- [wiki QA](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/)  
+- [squad](https://rajpurkar.github.io/SQuAD-explorer/)    
 - [trivia](https://arxiv.org/abs/1705.03551)  
 - [searchqa](https://arxiv.org/abs/1704.05179)  
 - [quasar](https://arxiv.org/abs/1707.03904)  
 - [narrativeqa](https://github.com/deepmind/narrativeqa)   
 - [ms marco](http://www.msmarco.org/)
-#### chinese . 
+#### chinese  
 - [dureader](https://arxiv.org/abs/1711.05073)
 - [WebQA](https://arxiv.org/pdf/1607.06275.pdf)
 - [sougou](http://task.www.sogou.com/cips-sogou_qa/)
@@ -59,14 +57,13 @@ datasets(freebase,microsoft satori,DBpedia)
 - limitation learning of agenda-based sematic parsers (tacl 2015)
 - transforming dependncy structures to logical form for semantic parsing(tacl 2016)
 - question answer on freebase via relation extraction and textual evidence(acl 2016)
-#### qa in structure data
+#### qa in web search
 - Entity linking and retrieval for semantic search(wsdm 2014)
 - knowledge base completion via search-based question answering(www 2014)
 - learning question classifiers (coling 2012)
 - question answer (Dan jurafsky  stanford book,chapter 28) 
 - open domain question and answer via semantic enrichment(www 2015)[[paper]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/frp1068-sunA.pdf)[[ppt]](./ppt/paperreading-20170907-jianguichen.pdf)
 - table cell search for question answer [www 2016]
- ---
 #### Question answer for testing machine intelligence
 - memery network(iclr 2015)[[paper]](https://arxiv.org/abs/1410.3916)
 - reasoning in vector space(iclr 2016)
