@@ -1,5 +1,5 @@
 ## question answering and reading comprehension   
-   
+ ---
 ### 2017 ACL  QA papers  
 - [Gated Self-Matching Networks for Reading Comprehension and Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1018.pdf)   
 - [Generating Natural Answers by Incorporating Copying and Retrieving Mechanisms in Sequence-to-Sequence Learning](http://www.aclweb.org/anthology/P/P17/P17-1019.pdf)
@@ -15,9 +15,7 @@
 - [Search-based Neural Structured Learning for Sequential Question Answering](http://www.aclweb.org/anthology/P/P17/P17-1167.pdf)
 - [Gated-Attention Readers for Text Comprehension](http://www.aclweb.org/anthology/P/P17/P17-1168.pdf)
 - [Reading Wikipedia to Answer Open-Domain Questions](http://www.aclweb.org/anthology/P/P17/P17-1171.pdf)
-
-#### new: QA survey [ppt](./ppt/span_QA.pptx) and [excel](./ppt/2017-09-19.xls) 
-
+ --- 
 ### Categories of Modern QA system
 
 - 1 factoid question . 
@@ -46,7 +44,6 @@
  ---  
 ### papers
 ####  QA from structured data
-datasets(freebase,microsoft satori,DBpedia)
 - semantic parsing on freebase  from question answer pair (emnlp 2013)
 - semantic parsing via paraphrasing (acl 2014)
 - large-scale semantic parsing without Question-answer pairs (tacl 2014)
@@ -75,8 +72,9 @@ datasets(freebase,microsoft satori,DBpedia)
 - Bidirectional Attention Flow for Machine Comprehension[[paper]](https://arxiv.org/abs/1611.01603)[[ppt]](./ppt/paperreading_20170914_yuefeng.pdf)[[code_tf]](https://github.com/allenai/bi-att-flow)
 - MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension[[paper]](https://arxiv.org/abs/1707.09098)
 - Mnemonic Reader: Machine Comprehension with Iterative Aligning and Multi-hop Answer Pointing[[paper]](https://arxiv.org/abs/1705.02798)
-- Structural Embedding of Syntactic Trees for Machine Comprehension
-
-
+- Structural Embedding of Syntactic Trees for Machine Comprehension  
+ ---
+### new
+#### QA survey [ppt](./ppt/span_QA.pptx) and [excel](./ppt/2017-09-19.xls) 
 
 
