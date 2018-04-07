@@ -41,11 +41,11 @@
 - [web QA](http://idl.baidu.com/WebQA.html) ：WebQA is a large scale *Chinese* human annotated real-world QA dataset which contains 42k questions and 579k evidences, where an evidence is a piece of text which may contain information for answering the question.All the questions are of single-entity factoid type, which means (1) each question is a factoid question and (2) its answer i . 
 nvolves only one entity (but may have multiple words).
 - [wiki QA](https://www.microsoft.com/en-us/research/publication/wikiqa-a-challenge-dataset-for-open-domain-question-answering/) : a new publicly available set of question and sentence pairs, collected and annotated for research on open-domain question answering. Most previous work on answer sentence selection focuses on a dataset created using the TREC-QA data, which includes editor-generated questions and candidate answer sentences selected by matching content words in the question. WikiQA is constructed using a more natural process and is more than an order of magnitude larger than the previous dataset. In addition, the WikiQA dataset also includes questions for which there are no correct sentences, enabling researchers to work on answer triggering, a critical component in any QA system. We compare several systems on the task of answer sentence selection on both datasets and also describe the performance of a system on the problem of answer triggering using the WikiQA dataset.
-- [squad]（https://rajpurkar.github.io/SQuAD-explorer/) . 
-- [trivia](https://arxiv.org/abs/1705.03551) . 
-- [searchqa](https://arxiv.org/abs/1704.05179) . 
-- [quasar](https://arxiv.org/abs/1707.03904) . 
-- [narrativeqa](https://github.com/deepmind/narrativeqa) . 
+- [squad](https://rajpurkar.github.io/SQuAD-explorer/)    
+- [trivia](https://arxiv.org/abs/1705.03551)  
+- [searchqa](https://arxiv.org/abs/1704.05179)  
+- [quasar](https://arxiv.org/abs/1707.03904)  
+- [narrativeqa](https://github.com/deepmind/narrativeqa)   
 - [ms marco](http://www.msmarco.org/)
 #### chinese . 
 - [dureader](https://arxiv.org/abs/1711.05073)
