@@ -17,6 +17,12 @@
 - [Reading Wikipedia to Answer Open-Domain Questions](http://www.aclweb.org/anthology/P/P17/P17-1171.pdf)  
 ### 2017 EMNLP QA papers
 
+
+###2018 ICLR
+ - Multi-Mention Learning for Reading Comprehension with Neural Cascades  
+ This paper proposed a novel architechture  to solve the multiple-passage reading comprehension which is common in open-domain question answering. They only used the fc layer to do RC and achieve comparable results on triviaqa
+
+
  --- 
 ### Categories of Modern QA system
 
